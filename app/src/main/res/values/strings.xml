@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">final_project</string>
     <string name="next">NEXT</string>
-    <string name="previous">PREVIOUS</string>
-    <string name= "flip">FLIP</string>
+    <string name="flip">FLIP</string>
+    <string name="word">WORD</string>
+    <string name="definition">DEFINITION</string>
 </resources>
